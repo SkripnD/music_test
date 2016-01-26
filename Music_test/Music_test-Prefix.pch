@@ -1,0 +1,14 @@
+//
+//  Music_test.pch
+//  Music_test
+//
+//  Created by Denis Skripnichenko on 26/01/16.
+//  Copyright © 2016 Denis Skripnichenko. All rights reserved.
+//
+#import <Availability.h>
+
+#ifdef __OBJC__
+
+#import "Music_test-Common.h"
+
+#endif
