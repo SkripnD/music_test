@@ -66,7 +66,7 @@
         .size   = percentsSize
     }];
     backgroundView.backgroundColor = [[UIColor
-                                           colorWithPatternImage:bgImage] colorWithAlphaComponent:0.7];
+                                           colorWithPatternImage:bgImage] colorWithAlphaComponent:0.8];
     [backgroundView setOpaque:YES];
     backgroundView.clipsToBounds   = YES;
     [genreView addSubview:backgroundView];
